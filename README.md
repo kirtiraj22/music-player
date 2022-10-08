@@ -22,6 +22,6 @@ In this we can play/pause and change the songs by pressing forward/backward butt
 7. Congrats! Your PR should now be merged in!
 
 
-#Screenshots
+# Screenshots
 ![Screenshot](screenshots/ss-1.png)
 ![Screenshot](screenshots/ss-2.png)
