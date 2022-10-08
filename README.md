@@ -14,10 +14,9 @@ In this we can play/pause and change the songs by pressing forward/backward butt
 - Don't forget to star the repository!
 
 1. Fork the repository and clone it locally. Before starting your work, ensure it's up to date with the current ` branch.
-2. Pick an issue from [here](https://github.com/kirtiraj22/music-player/issues). If you can't assign it to yourself, write in the issue comments that you want to pick it. **Please stay assigned to one issue at a time so that you are not blocking others**.
-3. Please add the issue number to your commit message.
+2. Pick an issue from [here](https://github.com/kirtiraj22/music-player/issues). 
+3. add the issue number to your commit message.
 4. Propose a Pull Request to the branch containing the issue number and title.
-5. Give an accurate description of your Pull Request with screenshots.
-6. Reference any relevant issues or other information in your PR.
-7. Wait for a review and adjust your PR according to it.
-8. Congrats! Your PR should now be merged in!
+5. Reference any relevant issues or other information in your PR.
+6. Wait for a review and adjust your PR according to it.
+7. Congrats! Your PR should now be merged in!
