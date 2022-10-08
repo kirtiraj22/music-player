@@ -28,6 +28,16 @@ const songs = [
     title : "Dusk Till Dawn" ,
     artist: "Zayn Malik"
     },
+    {
+    name : "song-5" , 
+    title : "Come Along" ,
+    artist: "Avi Rosenfeld"
+    },
+    {
+    name : "song-6" , 
+    title : "hipnotised" ,
+    artist: "Nayah"
+    },
 ];
 
 
