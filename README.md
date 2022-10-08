@@ -20,3 +20,8 @@ In this we can play/pause and change the songs by pressing forward/backward butt
 5. Reference any relevant issues or other information in your PR.
 6. Wait for a review and adjust your PR according to it.
 7. Congrats! Your PR should now be merged in!
+
+
+#Screenshots
+![Screenshot](screenshots/ss-1.png)
+![Screenshot](screenshots/ss-2.png)
