@@ -38,6 +38,11 @@ const songs = [
     title : "hipnotised" ,
     artist: "Nayah"
     },
+    {
+    name :"somg-7",
+    title :"as it was",
+    artist:"harry styles"
+    };
 ];
 
 
