@@ -26,7 +26,7 @@ html{
     height: 50rem;
     background-color: rgb(255, 153, 0);
     border-radius: 2rem;
-    box-shadow: 0 1.2rem 3rem 0.5rem rgba(0, 0 , 0 , 0.2);
+    box-shadow: 0 1.2rem 3rem 0.5rem rgba(0, 0 , 0 , 0.5);
     padding: 3rem;
     text-align: center;
 }
