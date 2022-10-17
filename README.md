@@ -23,5 +23,5 @@ In this we can play/pause and change the songs by pressing forward/backward butt
 
 
 # Screenshots
-![Screenshot](screenshots/ss-1.png)
-![Screenshot](screenshots/ss-2.png)
+![Screenshot](screenshots/ss-1.png) 
+
