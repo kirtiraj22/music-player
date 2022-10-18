@@ -16,7 +16,7 @@ html{
 .container{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(167, 214, 254);
+    background-color: aliceblue;
     display: grid;
     place-items: center;
 }
