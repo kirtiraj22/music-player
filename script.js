@@ -28,6 +28,22 @@ const songs = [
     title : "Dusk Till Dawn" ,
     artist: "Zayn Malik"
     },
+    {
+    name : "song-5" , 
+    title : "Heat Waves" ,
+    artist: "Glass Animals"
+    },
+    {
+    name : "song-6" , 
+    title : "Hiding In The Blue" ,
+    artist: "TheFatRat,RIELL"
+    },
+    {
+    name : "song-7" , 
+    title : "High" ,
+    artist: "JPB,Aleesia"
+    },
+
 ];
 
 
