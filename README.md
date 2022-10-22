@@ -23,5 +23,10 @@ In this we can play/pause and change the songs by pressing forward/backward butt
 
 
 # Screenshots
-![Screenshot](screenshots/ss-1.png) 
+
+<p align='left'>
+<img src="https://user-images.githubusercontent.com/95839946/197349703-957c43ad-e476-424a-8e48-3a6de4794c7a.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349722-98889c24-f7bb-4944-867d-d2cf5a2e1d08.png" width="300" height="370">
+<img src="https://user-images.githubusercontent.com/95839946/197349743-70ea6e4d-9bf2-48fd-9d7e-aec77df2f3b9.png" width="300" height="370">
+</p>
 
